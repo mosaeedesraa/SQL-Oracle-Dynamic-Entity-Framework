@@ -1,24 +1,37 @@
 # SQL-Oracle-Dynamic-Entity-Framework
+
 Call Sql or Oracle Database (Tables and StoredProcedures) Easy 
+
 without write more code and with async functions
 
 This version is update for https://github.com/mosaeedesraa/Dynamic-Entity-Framework
 
 #Example : 
 // Oracle or SQl are same code : 
+
 // We have table in database  :Name is  Test and Columns (ID - Name - Price - Date) 
+
 // with the same sort and names
+
 // Table in sql or Oracle : (ID : int , Name : nvarchar(50) , Price : numeric(18,3) , Date : datetime)
+
 // in c# class : (ID : int , Name : string , Price : decimal , Date : DateTime)
+
 // Notice : Table Name = Class Name , Columns Names = Properties Names 
+
 // And Columns sorts = Properities sorts are Neccessary for working fine.
 
+
 // 1 - Define Entity (table Name is Test - Columns Names and sorts ID-Name-Date-Price)
+
 	BaseEntity<Test> dc = new BaseEntity<Test>("Data Source=MyOracleDB;Integrated Security=yes;"
 	,
 	Databases.Oracle);
+	
             // Or Sql Database : Databases.Sql
-// ----------------------------------------------------------------------------------            
+            
+// ----------------------------------------------------------------------------------  
+
             // 1 -  select * from Test
             List<Test> rows = dc.AllData().Data;  // or
             var rows = dc.AllData().Data;
