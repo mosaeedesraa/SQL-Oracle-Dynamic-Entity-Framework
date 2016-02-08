@@ -5,14 +5,19 @@ This version is update for https://github.com/mosaeedesraa/Dynamic-Entity-Framew
 
 #Example : 
 // Oracle or SQl are same code : 
-            // We have table in database  :Name is  Test and Columns (ID - Name - Price - Date) with the same sort and names
+            // We have table in database  :Name is  Test and Columns (ID - Name - Price - Date) 
+            // with the same sort and names
             // Table in sql or Oracle : (ID : int , Name : nvarchar(50) , Price : numeric(18,3) , Date : datetime)
             // in c# class : (ID : int , Name : string , Price : decimal , Date : DateTime)
-            // Notice : Table Name = Class Name , Columns Names = Properties Names and Columns sorts = Properities sorts are Neccessary for working fine.
+            // Notice : Table Name = Class Name , Columns Names = Properties Names 
+            // And Columns sorts = Properities sorts are Neccessary for working fine.
 
-            BaseEntity<Test> dc = new BaseEntity<Test>("Data Source=MyOracleDB;Integrated Security=yes;", Databases.Oracle);    // Or Sql : Databases.Sql
+            BaseEntity<Test> dc = new BaseEntity<Test>("Data Source=MyOracleDB;Integrated Security=yes;", Databases.Oracle);
+            // Or Sql Database : Databases.Sql
+            
             // 1 -  select * from Test
-            List<Test> rows = dc.AllData().Data;
+            List<Test> rows = dc.AllData().Data;  // or
+            var rows = dc.AllData().Data;
             // if error is happend you can know by :  dc.AllData().Returened.State = false;
             // Error message : dc.AllData().Returened.ErrorMessage       
 
@@ -86,9 +91,15 @@ This version is update for https://github.com/mosaeedesraa/Dynamic-Entity-Framew
             // Error Message :  DeleteDeletedrow.Returened.ErrorMessage
 
             // 3 - call Insert or Update
-            var rowInserted = await dc.InsertAsync(new Test() { Name = "test2", Date = DateTime.Now, Price = 11 });
+            var rowInserted = await dc.InsertAsync(new Test()
+            {
+                Name = "test2", Date = DateTime.Now, Price = 11
+            });
             var rowID = dc.Find(1).SingleData;
             var rowUpdated = await dc.UpdateAsync(rowID);
             // Or
-            var rowUpdated2 = await dc.UpdateAsync(new Test() { ID = 1 , Name = "test2", Date = DateTime.Now, Price = 11 });
+            var rowUpdated2 = await dc.UpdateAsync(new Test() 
+            {
+                ID = 1 , Name = "test2", Date = DateTime.Now, Price = 11 
+            });
 
