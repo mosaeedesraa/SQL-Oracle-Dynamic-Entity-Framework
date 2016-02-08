@@ -1,5 +1,7 @@
 # SQL-Oracle-Dynamic-Entity-Framework
 
+# Add refrence : System.Data.OracleClient
+
 Call Sql or Oracle Database (Tables and StoredProcedures) Easy 
 
 without write more code and with async functions
