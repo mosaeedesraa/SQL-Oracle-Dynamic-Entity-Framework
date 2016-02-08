@@ -1,0 +1,110 @@
+D:\Dizayn\DataWareHousing\App.Entities\bin\Debug\App.Entities.dll
+D:\Dizayn\DataWareHousing\App.Entities\bin\Debug\App.Entities.pdb
+D:\Dizayn\DataWareHousing\App.Entities\bin\Debug\App.Core.dll
+D:\Dizayn\DataWareHousing\App.Entities\bin\Debug\App.Models.dll
+D:\Dizayn\DataWareHousing\App.Entities\bin\Debug\App.Core.pdb
+D:\Dizayn\DataWareHousing\App.Entities\bin\Debug\App.Models.pdb
+D:\Dizayn\DataWareHousing\App.Entities\obj\Debug\App.Entities.csprojResolveAssemblyReference.cache
+D:\Dizayn\DataWareHousing\App.Entities\obj\Debug\App.Entities.dll
+D:\Dizayn\DataWareHousing\App.Entities\obj\Debug\App.Entities.pdb
+C:\Users\mosaeed-yazilimm\Desktop\Mix\Web\Logo Design\Start any web Project\DataWareHousing\App.Entities\obj\Debug\App.Entities.csprojResolveAssemblyReference.cache
+C:\Users\mosaeed-yazilimm\Desktop\Mix\Web\Logo Design\Start any web Project\DataWareHousing\App.Entities\obj\Debug\App.Entities.dll
+C:\Users\mosaeed-yazilimm\Desktop\Mix\Web\Logo Design\Start any web Project\DataWareHousing\App.Entities\bin\Debug\App.Entities.dll
+C:\Users\mosaeed-yazilimm\Desktop\Mix\Web\Logo Design\Start any web Project\DataWareHousing\App.Entities\bin\Debug\App.Entities.pdb
+C:\Users\mosaeed-yazilimm\Desktop\Mix\Web\Logo Design\Start any web Project\DataWareHousing\App.Entities\bin\Debug\App.Core.dll
+C:\Users\mosaeed-yazilimm\Desktop\Mix\Web\Logo Design\Start any web Project\DataWareHousing\App.Entities\bin\Debug\App.Core.pdb
+C:\Users\mosaeed-yazilimm\Desktop\Mix\Web\Logo Design\Start any web Project\DataWareHousing\App.Entities\obj\Debug\App.Entities.pdb
+C:\Users\mosaeed-yazilimm\Desktop\Start any web Project\DataWareHousing\App.Entities\bin\Debug\App.Entities.dll
+C:\Users\mosaeed-yazilimm\Desktop\Start any web Project\DataWareHousing\App.Entities\bin\Debug\App.Entities.pdb
+C:\Users\mosaeed-yazilimm\Desktop\Start any web Project\DataWareHousing\App.Entities\bin\Debug\App.Core.dll
+C:\Users\mosaeed-yazilimm\Desktop\Start any web Project\DataWareHousing\App.Entities\bin\Debug\App.Core.pdb
+C:\Users\mosaeed-yazilimm\Desktop\Start any web Project\DataWareHousing\App.Entities\obj\Debug\App.Entities.csprojResolveAssemblyReference.cache
+C:\Users\mosaeed-yazilimm\Desktop\Start any web Project\DataWareHousing\App.Entities\obj\Debug\App.Entities.dll
+C:\Users\mosaeed-yazilimm\Desktop\Start any web Project\DataWareHousing\App.Entities\obj\Debug\App.Entities.pdb
+C:\Users\mosaeed-yazilimm\Desktop\New\DataWareHousing\App.Entities\bin\Debug\App.Entities.dll
+C:\Users\mosaeed-yazilimm\Desktop\New\DataWareHousing\App.Entities\bin\Debug\App.Entities.pdb
+C:\Users\mosaeed-yazilimm\Desktop\New\DataWareHousing\App.Entities\bin\Debug\App.Core.dll
+C:\Users\mosaeed-yazilimm\Desktop\New\DataWareHousing\App.Entities\bin\Debug\App.Core.pdb
+C:\Users\mosaeed-yazilimm\Desktop\New\DataWareHousing\App.Entities\obj\Debug\App.Entities.csprojResolveAssemblyReference.cache
+C:\Users\mosaeed-yazilimm\Desktop\New\DataWareHousing\App.Entities\obj\Debug\App.Entities.dll
+C:\Users\mosaeed-yazilimm\Desktop\New\DataWareHousing\App.Entities\obj\Debug\App.Entities.pdb
+C:\Users\mosaeed-yazilimm\Desktop\DataWareHousing\App.Entities\bin\Debug\App.Entities.dll
+C:\Users\mosaeed-yazilimm\Desktop\DataWareHousing\App.Entities\bin\Debug\App.Entities.pdb
+C:\Users\mosaeed-yazilimm\Desktop\DataWareHousing\App.Entities\bin\Debug\App.Core.dll
+C:\Users\mosaeed-yazilimm\Desktop\DataWareHousing\App.Entities\bin\Debug\App.Core.pdb
+C:\Users\mosaeed-yazilimm\Desktop\DataWareHousing\App.Entities\obj\Debug\App.Entities.csprojResolveAssemblyReference.cache
+C:\Users\mosaeed-yazilimm\Desktop\DataWareHousing\App.Entities\obj\Debug\App.Entities.dll
+C:\Users\mosaeed-yazilimm\Desktop\DataWareHousing\App.Entities\obj\Debug\App.Entities.pdb
+C:\Users\mosaeedesraa\Desktop\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Entities.dll
+C:\Users\mosaeedesraa\Desktop\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Entities.pdb
+C:\Users\mosaeedesraa\Desktop\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Core.dll
+C:\Users\mosaeedesraa\Desktop\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.DBInfrastructure.dll
+C:\Users\mosaeedesraa\Desktop\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Errors.dll
+C:\Users\mosaeedesraa\Desktop\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Errors.pdb
+C:\Users\mosaeedesraa\Desktop\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Core.pdb
+C:\Users\mosaeedesraa\Desktop\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.DBInfrastructure.pdb
+C:\Users\mosaeedesraa\Desktop\Mhd.Alsaid\Libraries\App.Entities\obj\Debug\App.Entities.csprojResolveAssemblyReference.cache
+C:\Users\mosaeedesraa\Desktop\Mhd.Alsaid\Libraries\App.Entities\obj\Debug\App.Entities.dll
+C:\Users\mosaeedesraa\Desktop\Mhd.Alsaid\Libraries\App.Entities\obj\Debug\App.Entities.pdb
+C:\Users\mosaeed-yazilimm\Desktop\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Entities.dll
+C:\Users\mosaeed-yazilimm\Desktop\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Entities.pdb
+C:\Users\mosaeed-yazilimm\Desktop\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Core.dll
+C:\Users\mosaeed-yazilimm\Desktop\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.DBInfrastructure.dll
+C:\Users\mosaeed-yazilimm\Desktop\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Errors.dll
+C:\Users\mosaeed-yazilimm\Desktop\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Errors.pdb
+C:\Users\mosaeed-yazilimm\Desktop\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Core.pdb
+C:\Users\mosaeed-yazilimm\Desktop\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.DBInfrastructure.pdb
+C:\Users\mosaeed-yazilimm\Desktop\Mhd.Alsaid\Libraries\App.Entities\obj\Debug\App.Entities.csprojResolveAssemblyReference.cache
+C:\Users\mosaeed-yazilimm\Desktop\Mhd.Alsaid\Libraries\App.Entities\obj\Debug\App.Entities.dll
+C:\Users\mosaeed-yazilimm\Desktop\Mhd.Alsaid\Libraries\App.Entities\obj\Debug\App.Entities.pdb
+C:\Users\mosaeedesraa\Desktop\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\Npgsql.dll
+D:\Work Ankara\MVC\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Entities.dll
+D:\Work Ankara\MVC\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Entities.pdb
+D:\Work Ankara\MVC\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Core.dll
+D:\Work Ankara\MVC\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.DBInfrastructure.dll
+D:\Work Ankara\MVC\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Errors.dll
+D:\Work Ankara\MVC\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\Npgsql.dll
+D:\Work Ankara\MVC\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Errors.pdb
+D:\Work Ankara\MVC\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Core.pdb
+D:\Work Ankara\MVC\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.DBInfrastructure.pdb
+D:\Work Ankara\MVC\Mhd.Alsaid\Libraries\App.Entities\obj\Debug\App.Entities.csprojResolveAssemblyReference.cache
+D:\Work Ankara\MVC\Mhd.Alsaid\Libraries\App.Entities\obj\Debug\App.Entities.dll
+D:\Work Ankara\MVC\Mhd.Alsaid\Libraries\App.Entities\obj\Debug\App.Entities.pdb
+G:\Users\Administrator\Desktop\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Entities.dll
+G:\Users\Administrator\Desktop\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Entities.pdb
+G:\Users\Administrator\Desktop\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Core.dll
+G:\Users\Administrator\Desktop\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Errors.dll
+G:\Users\Administrator\Desktop\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\Npgsql.dll
+G:\Users\Administrator\Desktop\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Errors.pdb
+G:\Users\Administrator\Desktop\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Core.pdb
+G:\Users\Administrator\Desktop\Mhd.Alsaid\Libraries\App.Entities\obj\Debug\App.Entities.csprojResolveAssemblyReference.cache
+G:\Users\Administrator\Desktop\Mhd.Alsaid\Libraries\App.Entities\obj\Debug\App.Entities.dll
+G:\Users\Administrator\Desktop\Mhd.Alsaid\Libraries\App.Entities\obj\Debug\App.Entities.pdb
+G:\Users\Administrator\Desktop\Vs new\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Entities.dll
+G:\Users\Administrator\Desktop\Vs new\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Entities.pdb
+G:\Users\Administrator\Desktop\Vs new\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Core.dll
+G:\Users\Administrator\Desktop\Vs new\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Errors.dll
+G:\Users\Administrator\Desktop\Vs new\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\Npgsql.dll
+G:\Users\Administrator\Desktop\Vs new\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\Autofac.dll
+G:\Users\Administrator\Desktop\Vs new\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\Autofac.Integration.Mvc.dll
+G:\Users\Administrator\Desktop\Vs new\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Errors.pdb
+G:\Users\Administrator\Desktop\Vs new\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\App.Core.pdb
+G:\Users\Administrator\Desktop\Vs new\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\Autofac.xml
+G:\Users\Administrator\Desktop\Vs new\Mhd.Alsaid\Libraries\App.Entities\bin\Debug\Autofac.Integration.Mvc.xml
+G:\Users\Administrator\Desktop\Vs new\Mhd.Alsaid\Libraries\App.Entities\obj\Debug\App.Entities.csprojResolveAssemblyReference.cache
+G:\Users\Administrator\Desktop\Vs new\Mhd.Alsaid\Libraries\App.Entities\obj\Debug\App.Entities.dll
+G:\Users\Administrator\Desktop\Vs new\Mhd.Alsaid\Libraries\App.Entities\obj\Debug\App.Entities.pdb
+C:\Users\mokhe\Desktop\Github\App.Entities\bin\Debug\App.Entities.dll
+C:\Users\mokhe\Desktop\Github\App.Entities\bin\Debug\App.Entities.pdb
+C:\Users\mokhe\Desktop\Github\App.Entities\obj\Debug\App.Entities.dll
+C:\Users\mokhe\Desktop\Github\App.Entities\obj\Debug\App.Entities.pdb
+C:\Users\mokhe\Desktop\Entities\App.Entities\obj\Debug\App.Entities.csprojResolveAssemblyReference.cache
+C:\Users\mokhe\Desktop\Entities\App.Entities\obj\Debug\App.Entities.dll
+C:\Users\mokhe\Desktop\Entities\App.Entities\obj\Debug\App.Entities.pdb
+C:\Users\mokhe\Desktop\Entities\App.Entities\bin\Debug\App.Entities.dll
+C:\Users\mokhe\Desktop\Entities\App.Entities\bin\Debug\App.Entities.pdb
+C:\Users\mokhe\Desktop\Github\Entities\App.Entities\bin\Debug\App.Entities.dll
+C:\Users\mokhe\Desktop\Github\Entities\App.Entities\bin\Debug\App.Entities.pdb
+C:\Users\mokhe\Desktop\Github\Entities\App.Entities\obj\Debug\App.Entities.csprojResolveAssemblyReference.cache
+C:\Users\mokhe\Desktop\Github\Entities\App.Entities\obj\Debug\App.Entities.dll
+C:\Users\mokhe\Desktop\Github\Entities\App.Entities\obj\Debug\App.Entities.pdb

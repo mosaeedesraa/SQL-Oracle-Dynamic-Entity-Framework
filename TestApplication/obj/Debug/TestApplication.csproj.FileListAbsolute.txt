@@ -1,0 +1,16 @@
+C:\Users\mokhe\Desktop\Entities\TestApplication\bin\Debug\TestApplication.exe.config
+C:\Users\mokhe\Desktop\Entities\TestApplication\bin\Debug\TestApplication.exe
+C:\Users\mokhe\Desktop\Entities\TestApplication\bin\Debug\TestApplication.pdb
+C:\Users\mokhe\Desktop\Entities\TestApplication\bin\Debug\App.Entities.dll
+C:\Users\mokhe\Desktop\Entities\TestApplication\bin\Debug\App.Entities.pdb
+C:\Users\mokhe\Desktop\Entities\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\mokhe\Desktop\Entities\TestApplication\obj\Debug\TestApplication.exe
+C:\Users\mokhe\Desktop\Entities\TestApplication\obj\Debug\TestApplication.pdb
+C:\Users\mokhe\Desktop\Github\Entities\TestApplication\bin\Debug\TestApplication.exe.config
+C:\Users\mokhe\Desktop\Github\Entities\TestApplication\bin\Debug\TestApplication.exe
+C:\Users\mokhe\Desktop\Github\Entities\TestApplication\bin\Debug\TestApplication.pdb
+C:\Users\mokhe\Desktop\Github\Entities\TestApplication\bin\Debug\App.Entities.dll
+C:\Users\mokhe\Desktop\Github\Entities\TestApplication\bin\Debug\App.Entities.pdb
+C:\Users\mokhe\Desktop\Github\Entities\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\mokhe\Desktop\Github\Entities\TestApplication\obj\Debug\TestApplication.exe
+C:\Users\mokhe\Desktop\Github\Entities\TestApplication\obj\Debug\TestApplication.pdb

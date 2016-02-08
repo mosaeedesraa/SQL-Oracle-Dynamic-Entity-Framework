@@ -1,0 +1,19 @@
+D:\Dizayn\DataWareHousing\App.Entities\bin\Release\App.Entities.dll
+D:\Dizayn\DataWareHousing\App.Entities\bin\Release\App.Entities.pdb
+D:\Dizayn\DataWareHousing\App.Entities\bin\Release\App.Core.dll
+D:\Dizayn\DataWareHousing\App.Entities\bin\Release\App.Models.dll
+D:\Dizayn\DataWareHousing\App.Entities\bin\Release\App.Core.pdb
+D:\Dizayn\DataWareHousing\App.Entities\bin\Release\App.Models.pdb
+D:\Dizayn\DataWareHousing\App.Entities\obj\Release\App.Entities.csprojResolveAssemblyReference.cache
+D:\Dizayn\DataWareHousing\App.Entities\obj\Release\App.Entities.dll
+D:\Dizayn\DataWareHousing\App.Entities\obj\Release\App.Entities.pdb
+G:\Users\Administrator\Desktop\Vs new\Mhd.Alsaid\Libraries\App.Entities\bin\Release\App.Entities.dll
+G:\Users\Administrator\Desktop\Vs new\Mhd.Alsaid\Libraries\App.Entities\bin\Release\App.Entities.pdb
+G:\Users\Administrator\Desktop\Vs new\Mhd.Alsaid\Libraries\App.Entities\bin\Release\App.Core.dll
+G:\Users\Administrator\Desktop\Vs new\Mhd.Alsaid\Libraries\App.Entities\bin\Release\App.Errors.dll
+G:\Users\Administrator\Desktop\Vs new\Mhd.Alsaid\Libraries\App.Entities\bin\Release\Npgsql.dll
+G:\Users\Administrator\Desktop\Vs new\Mhd.Alsaid\Libraries\App.Entities\bin\Release\App.Errors.pdb
+G:\Users\Administrator\Desktop\Vs new\Mhd.Alsaid\Libraries\App.Entities\bin\Release\App.Core.pdb
+G:\Users\Administrator\Desktop\Vs new\Mhd.Alsaid\Libraries\App.Entities\obj\Release\App.Entities.csprojResolveAssemblyReference.cache
+G:\Users\Administrator\Desktop\Vs new\Mhd.Alsaid\Libraries\App.Entities\obj\Release\App.Entities.dll
+G:\Users\Administrator\Desktop\Vs new\Mhd.Alsaid\Libraries\App.Entities\obj\Release\App.Entities.pdb
